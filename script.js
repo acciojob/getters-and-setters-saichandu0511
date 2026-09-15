@@ -1,8 +1,8 @@
 //complete this code
 class Person {
 	constructor(name, age){
-		this.name=string;
-		this.age=number;
+		this.name=name;
+		this.age=age;
 	}
 	get name(){
 	return this.name;	
